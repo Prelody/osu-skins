@@ -1,6 +1,6 @@
-# [prelodyazerino](https://github.com/Prelody/osu-skins/raw/main/Exports/prelodyazerino.osk)
-# [prelodyazerino2](https://github.com/Prelody/osu-skins/raw/main/Exports/prelodyazerino2.osk)
-# [prelodymalisz](https://github.com/Prelody/osu-skins/raw/main/Exports/prelodymalisz.osk)
-# [prelodymalisz2](https://github.com/Prelody/osu-skins/raw/main/Exports/prelodymalisz2.osk)
-# [prelodytekkito](https://github.com/Prelody/osu-skins/raw/main/Exports/prelodytekkito.osk)
-# [prelodytekkito2](https://github.com/Prelody/osu-skins/raw/main/Exports/prelodytekkito2.osk)
+### more skins in exports
+
+# [prelodymonko](https://github.com/Prelody/osu-skins/raw/main/Exports/prelodymonko.osk)
+# [prelodyselyu](https://github.com/Prelody/osu-skins/raw/main/Exports/prelodyselyu.osk)
+# [prelodyvaxei](https://github.com/Prelody/osu-skins/raw/main/Exports/prelodyvaxei.osk)
+# [prelodyvaxei2](https://github.com/Prelody/osu-skins/raw/main/Exports/prelodyvaxei2.osk)
