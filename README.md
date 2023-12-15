@@ -1,6 +1,8 @@
 ### more skins in exports
 
-# [prelodymonko](https://github.com/Prelody/osu-skins/raw/main/Exports/prelodymonko.osk)
-# [prelodyselyu](https://github.com/Prelody/osu-skins/raw/main/Exports/prelodyselyu.osk)
-# [prelodyvaxei](https://github.com/Prelody/osu-skins/raw/main/Exports/prelodyvaxei.osk)
-# [prelodyvaxei2](https://github.com/Prelody/osu-skins/raw/main/Exports/prelodyvaxei2.osk)
+# [elohere](https://github.com/Prelody/osu-skins/raw/main/Exports/elohere.osk)
+# [elohere2](https://github.com/Prelody/osu-skins/raw/main/Exports/elohere2.osk)
+# [nomod](https://github.com/Prelody/osu-skins/raw/main/Exports/nomod.osk)
+# [nomod2](https://github.com/Prelody/osu-skins/raw/main/Exports/nomod2.osk)
+# [rafis](https://github.com/Prelody/osu-skins/raw/main/Exports/rafis.osk)
+# [rafis2](https://github.com/Prelody/osu-skins/raw/main/Exports/rafis2.osk)
