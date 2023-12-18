@@ -4,3 +4,4 @@
 # [nomod2](https://github.com/Prelody/osu-skins/raw/main/Exports/nomod2.osk)
 # [rafis](https://github.com/Prelody/osu-skins/raw/main/Exports/rafis.osk)
 # [rafis2](https://github.com/Prelody/osu-skins/raw/main/Exports/rafis2.osk)
+# [test](https://github.com/Prelody/osu-skins/raw/main/Exports/test.osk)
