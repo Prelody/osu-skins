@@ -1,3 +1,4 @@
-# [Classic Mix](https://github.com/Prelody/osu-skins/raw/main/Exports/classic-mix.osk)
-# [Prelody Mix](https://github.com/Prelody/osu-skins/raw/main/Exports/prelody-mix.osk)
-# [Prelody Mix INSTAFADE](https://github.com/Prelody/osu-skins/raw/main/Exports/prelody-mix_instafade.osk)
+# [⊹ classic](https://prelody.s-ul.eu/TjX3mpUl)
+# [⊹ lody](https://prelody.s-ul.eu/OCgEGN8d)
+# [⊹ lody if](https://prelody.s-ul.eu/m6ECJXBe)
+# [extra](https://prelody.s-ul.eu/AKDntNnF)
